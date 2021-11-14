@@ -1,0 +1,2 @@
+Run Next.JS app
+    npm run dev
